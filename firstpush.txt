@@ -1,1 +1,7 @@
 This is an example 
+
+ANother Change added 
+
+Add a nother new linegit 
+
+Seeing if I can manually stage changes 
